@@ -1,9 +1,17 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-04-17
+Date scraped: 2026-04-30
 
 ---
+
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
 
 # Home
 
@@ -13,47 +21,47 @@ RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
 
+Apr 29, 2026
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
+
+Apr 27, 2026
+
+[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+
+Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
+
 Mar 17, 2026
 
 [CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026](https://ir.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
 
-Feb 3, 2026
-
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTS](https://ir.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-LAUNCHES "RECIPE FOR GROWTH" STRATEGY TO GROW TRANSACTIONS AND DRIVE ACCURACY, EFFICIENCY AND SPEED FULL YEAR TOTAL REVENUE INCREASED 5.4% TO $11.9 BILLION NEWPORT BEACH, Calif., Feb. 3, 2026...
-
-Jan 12, 2026
-
-[CHIPOTLE ANNOUNCES LEADERSHIP TRANSITIONS](https://ir.chipotle.com/2026-01-12-CHIPOTLE-ANNOUNCES-LEADERSHIP-TRANSITIONS)
-
-CHIPOTLE EXECUTIVE ILENE ESKENAZI APPOINTED CHIEF LEGAL AND HUMAN RESOURCES OFFICER STEPHANIE PERDUE, VICE PRESIDENT OF BRAND MARKETING, APPOINTED INTERIM CHIEF MARKETING OFFICER REAFFIRMS FULL...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$35.08
+$32.99
 
--$0.17
+$0.12
 
 Currency in USD.
 
 Quote data delayed by at least 15 minutes.
 
-2024 ANNUAL
+2025 ANNUAL
 
 REPORT and
 
-2025 proxy
+2026 proxy
 
 statement
 
-[Download Annual Report](https://ir.chipotle.com/download/Chipotle%2B2024%2BAnnual%2BReport.pdf)
+[Download Annual Report](https://ir.chipotle.com/download/2025_Annual_Report.pdf)
 
-[Download Proxy Statement](https://ir.chipotle.com/download/Chipotle%2B2025%2BProxy%2BStatement.pdf)
+[Download Proxy Statement](https://ir.chipotle.com/download/2026_Proxy_Statement.pdf)
 
 **Electronic Delivery**
 

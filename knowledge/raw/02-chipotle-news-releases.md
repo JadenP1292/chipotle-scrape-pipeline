@@ -1,7 +1,7 @@
 # chipotle news releases
 
 Source: https://newsroom.chipotle.com/press-releases
-Date scraped: 2026-04-17
+Date scraped: 2026-04-30
 
 ---
 
@@ -57,106 +57,105 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
 
-- [![](https://mma.prnewswire.com/media/2957935/CHIPOTLE_MEXICAN_GRILL__Hockey_BOGO.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY)
+- [![](https://newsroom.chipotle.com/file.php/180969/CincoCampaignPR_SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
 
 
 
-Apr 16, 2026
+Apr 29, 2026
 
 
 
-[SUIT UP AND SCORE: CHIPOTLE BRINGS BACK ITS HOCKEY JERSEY BOGO FOR THE 2026 STANLEY CUP® PLAYOFFS--AND DROPS FIRST-EVER LIMITED-EDITION JERSEYOpens in new window](https://newsroom.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY)
+[CHIPOTLE BRINGS REAL INGREDIENTS TO CINCO DE MAYO WITH FREE CHIPS AND SIDESOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
 
 
 
 
 
-Fans who wear a hockey jersey on April 20 can get a BUY-ONE-GET-ONE (BOGO) entrée after 3 p.m. local time1 Chipotle is dropping its first-ever limited-edition hockey jersey—only 75 available...
+Digital guests can score free Chips and Queso Blanco or free Chips and Guacamole with an entrée purchase on May 5 using code CINCO26 on the Chipotle app and Chipotle.com\* NEWPORT BEACH, Calif.,...
 
 
 
 
 
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY#assets_20295_122853-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES#assets_20295_122857-117)
 
-- [![](https://mma.prnewswire.com/media/2954268/Chipotle_Rewards_On_Repeat.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
+- [![](https://mma.prnewswire.com/media/2968503/Chipotle_Teacher_Healthcare_Giftcards.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
 
 
 
-Apr 13, 2026
+Apr 29, 2026
 
 
 
-[CHIPOTLE RELAUNCHES REWARDS WITH "REWARDS ON REPEAT," DELIVERING MORE VALUE WITHOUT TRADE-OFFSOpens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
+[CHIPOTLE TO GIVE AWAY UP TO $2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERSOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
 
 
 
 
 
-With 21 million active members driving a significant portion of the company's sales, Chipotle enters its next phase of digital growth New benefits include monthly free food drops, expanded...
+To celebrate Teacher Appreciation Week (May 4 through May 8) and National Nurses Week (May 6 through May 12), up to 100,000 healthcare workers and 100,000 teachers, randomly selected and verified...
 
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS#assets_20295_122852-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS#assets_20295_122858-117)
 
-- [![](https://mma.prnewswire.com/media/2944587/Chipotle_National_Burrito_Day_2026.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
+- Apr 27, 2026
 
 
 
-Mar 30, 2026
+[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICEROpens in new window](https://newsroom.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
 
 
 
-[CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION WITH OVER $2 MILLION IN CHIPOTLE PRIZES FOR NATIONAL BURRITO DAYOpens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
 
 
+Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
 
+- [![](https://newsroom.chipotle.com/file.php/180960/1200SustainabilityReportPR.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
 
 
-After more than 3.5 million plays in 2025, Chipotle's popular digital game is back for a third consecutive year with a new high protein twist Rewards Members who crack the code to Chipotle's...
 
+Apr 22, 2026
 
 
 
+[CHIPOTLE REPORTS FIRST CUMULATIVE REAL FOODPRINT RESULTS, INCLUDING OVER 616 MILLION GALLONS OF WATER SAVED IN 2025Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY#assets_20295_122851-117)
 
-- [![](https://mma.prnewswire.com/media/2936558/PR_Asset_Cilantro_Lime_Sauce_1.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION)
 
 
 
-Mar 18, 2026
+For the first time, Chipotle is reporting cumulative Real Foodprint results across all digital orders in 2025, quantifying the estimated environmental impact of its ingredient sourcing standards...
 
 
 
-[CHIPOTLE LAUNCHES FRESH CILANTRO LIME SAUCE FOR A LIMITED TIME AMID AMERICA'S SAUCE OBSESSIONOpens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION)
 
 
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122855-117)
 
+- [![](https://newsroom.chipotle.com/file.php/180951/1920x1080+CHC+PR+2_1000.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN)
 
 
-Fresh cilantro, lime and roasted jalapeños come together in a creamy new sauce made fresh daily Cilantro Lime Sauce is Chipotle's highest-performing sauce in company test markets to date The...
 
+Apr 21, 2026
 
 
 
+[CHIPOTLE KICKS OFF THE SUMMER SEASON WITH THE RETURN OF HIGHLY POPULAR CHIPOTLE HONEY CHICKENOpens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN)
 
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION#assets_20295_122850-117)
 
-- Mar 17, 2026
 
 
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
+After debuting in 2025, Chipotle Honey Chicken became Chipotle’s best-selling limited-time offering All guests in North America and Europe can order the protein starting April 28 Chipotle Honey...
 
 
 
 
 
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
-
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN#assets_20295_122854-117)
 
 Show
 

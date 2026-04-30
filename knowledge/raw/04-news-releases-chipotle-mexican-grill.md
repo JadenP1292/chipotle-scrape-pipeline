@@ -1,17 +1,9 @@
 # News Releases - Chipotle Mexican Grill
 
 Source: https://ir.chipotle.com/Financial-Releases
-Date scraped: 2026-04-17
+Date scraped: 2026-04-30
 
 ---
-
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
 
 April 2026
 
@@ -63,6 +55,18 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/Financial-Releases#)
 
+- Apr 29, 2026
+
+
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+- Apr 27, 2026
+
+
+
+[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+
 - Mar 17, 2026
 
 
@@ -80,26 +84,6 @@ PhotosAudioDocumentsEventsStandard
 
 
 [CHIPOTLE ANNOUNCES LEADERSHIP TRANSITIONS](https://ir.chipotle.com/2026-01-12-CHIPOTLE-ANNOUNCES-LEADERSHIP-TRANSITIONS)
-
-- [![](https://mma.prnewswire.com/media/2843961/Chipotle_4000th_Store_Celebration_4.jpg?p=thumbnail)](https://ir.chipotle.com/2025-12-12-BIG-MILESTONE-IN-THE-LITTLE-APPLE-CHIPOTLE-OPENS-ITS-4,000TH-RESTAURANT,-LOCATED-IN-MANHATTAN,-KANSAS)
-
-
-
-Dec 12, 2025
-
-
-
-[BIG MILESTONE IN THE "LITTLE APPLE:" CHIPOTLE OPENS ITS 4,000TH RESTAURANT, LOCATED IN MANHATTAN, KANSAS](https://ir.chipotle.com/2025-12-12-BIG-MILESTONE-IN-THE-LITTLE-APPLE-CHIPOTLE-OPENS-ITS-4,000TH-RESTAURANT,-LOCATED-IN-MANHATTAN,-KANSAS)
-
-
-
-  - [PhotosPhotos2](https://ir.chipotle.com/2025-12-12-BIG-MILESTONE-IN-THE-LITTLE-APPLE-CHIPOTLE-OPENS-ITS-4,000TH-RESTAURANT,-LOCATED-IN-MANHATTAN,-KANSAS#assets_20295_122817-3)
-
-- Dec 2, 2025
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FOURTH QUARTER AND FULL YEAR 2025 RESULTS ON FEBRUARY 3, 2026](https://ir.chipotle.com/2025-12-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS-ON-FEBRUARY-3,-2026)
 
 
 Show
