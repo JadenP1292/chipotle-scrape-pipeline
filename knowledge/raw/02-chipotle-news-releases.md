@@ -1,7 +1,7 @@
 # chipotle news releases
 
 Source: https://newsroom.chipotle.com/press-releases
-Date scraped: 2026-04-30
+Date scraped: 2026-05-04
 
 ---
 
@@ -56,6 +56,18 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- Apr 29, 2026
+
+
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTSOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+
+
+
+
+RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
 
 - [![](https://newsroom.chipotle.com/file.php/180969/CincoCampaignPR_SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
 
@@ -134,28 +146,6 @@ For the first time, Chipotle is reporting cumulative Real Foodprint results acro
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122855-117)
-
-- [![](https://newsroom.chipotle.com/file.php/180951/1920x1080+CHC+PR+2_1000.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN)
-
-
-
-Apr 21, 2026
-
-
-
-[CHIPOTLE KICKS OFF THE SUMMER SEASON WITH THE RETURN OF HIGHLY POPULAR CHIPOTLE HONEY CHICKENOpens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN)
-
-
-
-
-
-After debuting in 2025, Chipotle Honey Chicken became Chipotle’s best-selling limited-time offering All guests in North America and Europe can order the protein starting April 28 Chipotle Honey...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-21-CHIPOTLE-KICKS-OFF-THE-SUMMER-SEASON-WITH-THE-RETURN-OF-HIGHLY-POPULAR-CHIPOTLE-HONEY-CHICKEN#assets_20295_122854-117)
 
 Show
 
