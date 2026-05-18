@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-05-11
+Date scraped: 2026-05-18
 
 ---
 
@@ -35,9 +35,9 @@ Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, Apr
 
 NYSECMG
 
-$32.49
+$32.65
 
--$0.78
+$0.56
 
 Currency in USD.
 

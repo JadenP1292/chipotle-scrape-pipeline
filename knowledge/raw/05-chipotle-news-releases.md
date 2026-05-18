@@ -1,7 +1,7 @@
 # chipotle news releases
 
 Source: https://newsroomeu.chipotle.com/press-releases
-Date scraped: 2026-04-30
+Date scraped: 2026-05-18
 
 ---
 
@@ -55,6 +55,18 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroomeu.chipotle.com/press-releases#)
 
+- Apr 29, 2026
+
+
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTSOpens in new window](https://newsroomeu.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+
+
+
+
+RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
+
 - Apr 27, 2026
 
 
@@ -89,71 +101,30 @@ After launching in the UK in 2025, Chipotle Honey Chicken became the brand’s b
 
   - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-04-21-CHIPOTLE-BRINGS-BACK-CHIPOTLE-HONEY-CHICKEN-TO-THE-UK-FOLLOWING-RECORD-BREAKING-DEBUT#assets_20295_122833-117)
 
-- [![](https://mma.prnewswire.com/media/2957935/CHIPOTLE_MEXICAN_GRILL__Hockey_BOGO.jpg?p=thumbnail)Opens in new window](https://newsroomeu.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY)
+- Mar 17, 2026
 
 
 
-Apr 16, 2026
-
-
-
-[SUIT UP AND SCORE: CHIPOTLE BRINGS BACK ITS HOCKEY JERSEY BOGO FOR THE 2026 STANLEY CUP® PLAYOFFS--AND DROPS FIRST-EVER LIMITED-EDITION JERSEYOpens in new window](https://newsroomeu.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY)
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026Opens in new window](https://newsroomeu.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
 
 
 
 
 
-Fans who wear a hockey jersey on April 20 can get a BUY-ONE-GET-ONE (BOGO) entrée after 3 p.m. local time1 Chipotle is dropping its first-ever limited-edition hockey jersey—only 75 available...
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
+
+- Feb 3, 2026
+
+
+
+[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTSOpens in new window](https://newsroomeu.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
 
 
 
 
 
-  - [Photos2Opens in new window](https://newsroomeu.chipotle.com/2026-04-16-SUIT-UP-AND-SCORE-CHIPOTLE-BRINGS-BACK-ITS-HOCKEY-JERSEY-BOGO-FOR-THE-2026-STANLEY-CUP-R-PLAYOFFS-AND-DROPS-FIRST-EVER-LIMITED-EDITION-JERSEY#assets_20295_122832-117)
+LAUNCHES "RECIPE FOR GROWTH" STRATEGY TO GROW TRANSACTIONS AND DRIVE ACCURACY, EFFICIENCY AND SPEED FULL YEAR TOTAL REVENUE INCREASED 5.4% TO $11.9 BILLION NEWPORT BEACH, Calif., Feb. 3, 2026...
 
-- [![](https://mma.prnewswire.com/media/2954268/Chipotle_Rewards_On_Repeat.jpg?p=thumbnail)Opens in new window](https://newsroomeu.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
-
-
-
-Apr 13, 2026
-
-
-
-[CHIPOTLE RELAUNCHES REWARDS WITH "REWARDS ON REPEAT," DELIVERING MORE VALUE WITHOUT TRADE-OFFSOpens in new window](https://newsroomeu.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
-
-
-
-
-
-With 21 million active members driving a significant portion of the company's sales, Chipotle enters its next phase of digital growth New benefits include monthly free food drops, expanded...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS#assets_20295_122831-117)
-
-- [![](https://mma.prnewswire.com/media/2944587/Chipotle_National_Burrito_Day_2026.jpg?p=thumbnail)Opens in new window](https://newsroomeu.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
-
-
-
-Mar 30, 2026
-
-
-
-[CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION WITH OVER $2 MILLION IN CHIPOTLE PRIZES FOR NATIONAL BURRITO DAYOpens in new window](https://newsroomeu.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
-
-
-
-
-
-After more than 3.5 million plays in 2025, Chipotle's popular digital game is back for a third consecutive year with a new high protein twist Rewards Members who crack the code to Chipotle's...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY#assets_20295_122830-117)
 
 Show
 
