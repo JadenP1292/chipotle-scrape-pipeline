@@ -1,7 +1,7 @@
 # News Releases - Chipotle Mexican Grill
 
 Source: https://ir.chipotle.com/news-releases
-Date scraped: 2026-06-15
+Date scraped: 2026-06-29
 
 ---
 

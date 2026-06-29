@@ -1,7 +1,7 @@
 # chipotle news releases
 
 Source: https://newsroom.chipotle.com/press-releases
-Date scraped: 2026-06-22
+Date scraped: 2026-06-29
 
 ---
 

@@ -1,7 +1,7 @@
 # Chipotle Mexican Grill News and Press Releases | PR Newswire
 
 Source: https://www.prnewswire.com/news/chipotle-mexican-grill/
-Date scraped: 2026-06-22
+Date scraped: 2026-06-29
 
 ---
 
