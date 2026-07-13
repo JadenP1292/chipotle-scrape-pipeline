@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-07-06
+Date scraped: 2026-07-13
 
 ---
 
@@ -35,9 +35,9 @@ Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate i
 
 NYSECMG
 
-$35.39
+$35.25
 
-$0.39
+$0.65
 
 Currency in USD.
 
