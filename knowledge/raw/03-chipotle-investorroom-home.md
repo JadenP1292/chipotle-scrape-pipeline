@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-07-20
+Date scraped: 2026-07-27
 
 ---
 
@@ -39,9 +39,9 @@ RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; 
 
 NYSECMG
 
-$34.44
+$31.79
 
-$0.24
+-$0.22
 
 Currency in USD.
 
