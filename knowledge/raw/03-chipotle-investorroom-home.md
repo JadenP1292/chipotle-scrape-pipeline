@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-09-07
+Date scraped: 2026-09-14
 
 ---
 
@@ -39,9 +39,9 @@ Chipotle and Alsea plan additional openings in Nuevo León this year and expansi
 
 NYSECMG
 
-$36.96
+$36.20
 
--$0.61
+$0.07
 
 Currency in USD.
 
@@ -111,5 +111,3 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
-
-Twitter Widget Iframe
