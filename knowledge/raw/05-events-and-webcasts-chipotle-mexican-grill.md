@@ -1,7 +1,7 @@
 # Events and Webcasts - Chipotle Mexican Grill
 
 Source: https://ir.chipotle.com/events
-Date scraped: 2026-09-21
+Date scraped: 2026-09-28
 
 ---
 

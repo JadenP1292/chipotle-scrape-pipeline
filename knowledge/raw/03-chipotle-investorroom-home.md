@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-09-21
+Date scraped: 2026-09-28
 
 ---
 
@@ -35,9 +35,9 @@ Jul 29, 2026
 
 NYSECMG
 
-$33.43
+$31.33
 
--$0.08
+-$0.68
 
 Currency in USD.
 
