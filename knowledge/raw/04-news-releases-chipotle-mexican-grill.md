@@ -1,7 +1,7 @@
 # News Releases - Chipotle Mexican Grill
 
 Source: https://ir.chipotle.com/Financial-Releases
-Date scraped: 2026-10-12
+Date scraped: 2026-10-19
 
 ---
 
@@ -142,6 +142,8 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe
 
