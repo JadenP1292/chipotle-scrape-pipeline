@@ -1,7 +1,7 @@
 # SEC Filings - Chipotle Mexican Grill
 
 Source: https://ir.chipotle.com/sec-filings
-Date scraped: 2026-10-19
+Date scraped: 2026-10-26
 
 ---
 
