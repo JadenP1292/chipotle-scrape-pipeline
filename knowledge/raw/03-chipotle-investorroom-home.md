@@ -1,7 +1,7 @@
 # Chipotle InvestorRoom - Home
 
 Source: https://ir.chipotle.com/
-Date scraped: 2026-11-02
+Date scraped: 2026-11-09
 
 ---
 
@@ -47,9 +47,9 @@ Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of
 
 NYSECMG
 
-$31.89
+$34.43
 
-$0.61
+-$0.97
 
 Currency in USD.
 
