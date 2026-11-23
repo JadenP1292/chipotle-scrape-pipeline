@@ -1,7 +1,7 @@
 # News Releases
 
 Source: https://ir.chipotle.com/Financial-Releases
-Date scraped: 2026-11-16
+Date scraped: 2026-11-23
 
 ---
 
